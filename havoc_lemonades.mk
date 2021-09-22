@@ -29,8 +29,6 @@ TARGET_BOOT_ANIMATION_RES := 1080
 
 # Official
 HAVOC_BUILD_TYPE := Official
-HAVOC_MAINTAINER := Chandu
-HAVOC_GROUP_URL := https://t.me/havoc_oneplus8
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := havoc_lemonades
